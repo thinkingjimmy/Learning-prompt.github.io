@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://learningpromt.wiki/blog</id>
+    <title>Learning Prompt Blog</title>
+    <updated>2023-03-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://learningpromt.wiki/blog"/>
+    <subtitle>Learning Prompt Blog</subtitle>
+    <icon>https://learningpromt.wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Project Release]]></title>
+        <id>/2023/03/06/Project-release</id>
+        <link href="https://learningpromt.wiki/blog/2023/03/06/Project-release"/>
+        <updated>2023-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[教程正式发布。]]></summary>
+        <content type="html"><![CDATA[<p>教程正式发布。</p>]]></content>
+        <category label="hola" term="hola"/>
+        <category label="release" term="release"/>
+    </entry>
+</feed>

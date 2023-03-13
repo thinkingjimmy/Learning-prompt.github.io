@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"AI Summary \u4f1a\u53d6\u4ee3\u4eba\u5de5 Summary \u5417?","permalink":"/blog/2023/03/13/AI-Summary-And-Human-Summary"},{"title":"Project Release","permalink":"/blog/2023/03/06/Project-release"}]}')}}]);

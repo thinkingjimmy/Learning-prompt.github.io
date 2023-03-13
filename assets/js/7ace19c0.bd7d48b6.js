@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[7119],{9794:a=>{a.exports=JSON.parse('{"label":"AI Summary","permalink":"/blog/tags/ai-summary","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Project Release","permalink":"/blog/2023/03/06/Project-release"}]}')}}]);

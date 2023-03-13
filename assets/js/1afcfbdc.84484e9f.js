@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[714],{818:e=>{e.exports=JSON.parse('{"label":"\u9884\u6d4b","permalink":"/blog/tags/\u9884\u6d4b","allTagsPath":"/blog/tags","count":1}')}}]);

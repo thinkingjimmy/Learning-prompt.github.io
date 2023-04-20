@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learningpromt.wiki/blog</id>
     <title>Learning Prompt Blog</title>
-    <updated>2023-03-24T00:00:00.000Z</updated>
+    <updated>2023-04-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://learningpromt.wiki/blog"/>
     <subtitle>Learning Prompt Blog</subtitle>
     <icon>https://learningpromt.wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[感谢提交反馈的各位朋友]]></title>
+        <id>/2023/04/20/Thanks</id>
+        <link href="https://learningpromt.wiki/blog/2023/04/20/Thanks"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[因为前阵子都在肝教程，忙着忙着就把问卷给忘了😭]]></summary>
+        <content type="html"><![CDATA[<p>因为前阵子都在肝教程，忙着忙着就把问卷给忘了😭</p><p>抱歉，没有及时看各位提交的反馈~</p><p>今天我统一看了下，并对内容进行了修订，感谢以下朋友的支持与反馈：</p><ul><li>TuZaaaaa</li><li>Ziran</li><li>Will Pan</li><li>天香续命丸</li><li>jane</li><li>小龙</li><li>microSiland</li><li>Felix Ai</li><li>jane</li><li>大兔</li><li>木辛</li><li>贺佳</li><li>Nicola</li><li>maslke</li><li>SiriusWy</li><li>麻辣烫只剩烫</li><li>mrhouse</li><li>Youmoo</li><li>yomiko</li><li>wong</li><li>Nishikori</li><li>Youmoo</li><li>Vipuser</li><li>Coie</li><li>DavidT</li><li>Michael.W</li><li>Fred Chan</li><li>养兔子的好人</li><li>小波</li><li>Fred Chan</li><li>Pierre</li><li>阿文</li><li>woodscountry</li><li>jellard.liu</li><li>aki</li><li>BrodyDung</li><li>小熊猫</li><li>杰克陆</li><li>Joe</li><li>郭阳振</li><li>Sourire</li><li>Zhenming</li><li>echo</li><li>张鹏</li><li>daxigua</li><li>Grash</li><li>hey🦈</li><li>Zeot</li><li>我心漫漫</li></ul><p>另外，有不少朋友反馈<a href="/blog/2023/04/docs/chatGPT/tutorial-extras/搭建基于知识库内容的机器人.md">搭建基于知识库内容的机器人</a>这篇文章里的代码运行错误，问题我已经修复了，现在可以顺利运行了。</p><p>后续我会定期看各位的 Github 和问卷反馈。
+最后，再次感谢各位朋友的反馈。</p>]]></content>
+        <category label="thanks" term="thanks"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[后续计划 & 回答大家关心的问题]]></title>
         <id>/2023/03/24/Feature-Plan</id>

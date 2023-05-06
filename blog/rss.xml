@@ -4,10 +4,20 @@
         <title>Learning Prompt Blog</title>
         <link>https://learningpromt.wiki/blog</link>
         <description>Learning Prompt Blog</description>
-        <lastBuildDate>Thu, 20 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[感谢提交反馈的各位朋友]]></title>
+            <link>https://learningpromt.wiki/blog/2023/05/06/Changelog</link>
+            <guid>/2023/05/06/Changelog</guid>
+            <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[最近看完了以下教程，本次更新主要是将我学习教程时的笔记和感悟，更新到本教程：]]></description>
+            <content:encoded><![CDATA[<p>最近看完了以下教程，本次更新主要是将我学习教程时的笔记和感悟，更新到本教程：</p><ol><li>吴恩达的 ChatGPT Prompt Engineering <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreferrer">课程</a></li><li>吴军得到课程<a href="https://www.dedao.cn/course/detail?id=ElLD8OrepAxVvGMsqgJ2oybGdmBnvM" target="_blank" rel="noopener noreferrer">《前沿课·吴军讲 GPT》</a></li></ol><p>另外，增加了每日论文的收录。</p>]]></content:encoded>
+            <category>changelog</category>
+            <category>release</category>
+        </item>
         <item>
             <title><![CDATA[感谢提交反馈的各位朋友]]></title>
             <link>https://learningpromt.wiki/blog/2023/04/20/Thanks</link>

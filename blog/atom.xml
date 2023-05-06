@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learningpromt.wiki/blog</id>
     <title>Learning Prompt Blog</title>
-    <updated>2023-04-20T00:00:00.000Z</updated>
+    <updated>2023-05-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://learningpromt.wiki/blog"/>
     <subtitle>Learning Prompt Blog</subtitle>
     <icon>https://learningpromt.wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[感谢提交反馈的各位朋友]]></title>
+        <id>/2023/05/06/Changelog</id>
+        <link href="https://learningpromt.wiki/blog/2023/05/06/Changelog"/>
+        <updated>2023-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近看完了以下教程，本次更新主要是将我学习教程时的笔记和感悟，更新到本教程：]]></summary>
+        <content type="html"><![CDATA[<p>最近看完了以下教程，本次更新主要是将我学习教程时的笔记和感悟，更新到本教程：</p><ol><li>吴恩达的 ChatGPT Prompt Engineering <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreferrer">课程</a></li><li>吴军得到课程<a href="https://www.dedao.cn/course/detail?id=ElLD8OrepAxVvGMsqgJ2oybGdmBnvM" target="_blank" rel="noopener noreferrer">《前沿课·吴军讲 GPT》</a></li></ol><p>另外，增加了每日论文的收录。</p>]]></content>
+        <category label="changelog" term="changelog"/>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感谢提交反馈的各位朋友]]></title>
         <id>/2023/04/20/Thanks</id>

@@ -2,14 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learningpromt.wiki/blog</id>
     <title>Learning Prompt Blog</title>
-    <updated>2023-05-06T00:00:00.000Z</updated>
+    <updated>2023-08-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://learningpromt.wiki/blog"/>
     <subtitle>Learning Prompt Blog</subtitle>
     <icon>https://learningpromt.wiki/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[2023-08-01 更新日志]]></title>
+        <id>https://learningpromt.wiki/blog/2023/08/01/Changelog</id>
+        <link href="https://learningpromt.wiki/blog/2023/08/01/Changelog"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[增加了「最佳实践」栏目，分享如何更好地使用 AI 工具。]]></summary>
+        <content type="html"><![CDATA[<p>增加了「最佳实践」栏目，分享如何更好地使用 AI 工具。</p>]]></content>
+        <category label="changelog" term="changelog"/>
+        <category label="release" term="release"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023-05-06 更新日志]]></title>
-        <id>/2023/05/06/Changelog</id>
+        <id>https://learningpromt.wiki/blog/2023/05/06/Changelog</id>
         <link href="https://learningpromt.wiki/blog/2023/05/06/Changelog"/>
         <updated>2023-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[最近看完了以下教程，本次更新主要是将我学习教程时的笔记和感悟，更新到本教程：]]></summary>
@@ -19,7 +29,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-04-20 感谢提交反馈的各位朋友]]></title>
-        <id>/2023/04/20/Thanks</id>
+        <id>https://learningpromt.wiki/blog/2023/04/20/Thanks</id>
         <link href="https://learningpromt.wiki/blog/2023/04/20/Thanks"/>
         <updated>2023-04-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[因为前阵子都在肝教程，忙着忙着就把问卷给忘了 😭]]></summary>
@@ -29,7 +39,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-03-24 后续计划]]></title>
-        <id>/2023/03/24/Feature-Plan</id>
+        <id>https://learningpromt.wiki/blog/2023/03/24/Feature-Plan</id>
         <link href="https://learningpromt.wiki/blog/2023/03/24/Feature-Plan"/>
         <updated>2023-03-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[👋 Hello 各位朋友]]></summary>
@@ -39,7 +49,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-03-06 Project Release]]></title>
-        <id>/2023/03/06/Project-release</id>
+        <id>https://learningpromt.wiki/blog/2023/03/06/Project-release</id>
         <link href="https://learningpromt.wiki/blog/2023/03/06/Project-release"/>
         <updated>2023-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[教程正式发布。]]></summary>
